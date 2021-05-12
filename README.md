@@ -2,8 +2,8 @@
 
 #### I’m interested in ...
 
-:penguin: Using, learning and encouraging the use of GNU/Linux.
-:grey_question: Learning new things.
+- :penguin: Using, learning and encouraging the use of GNU/Linux.
+- :grey_question: Learning new things.
 
 #### I’m currently learning ...
 
