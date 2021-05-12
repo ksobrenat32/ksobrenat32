@@ -4,6 +4,7 @@
 
 - :penguin: Using, learning and encouraging the use of GNU/Linux.
 - :grey_question: Learning new things.
+- SUpernatural the serie: The reason of my username ;)
 
 #### I’m currently learning ...
 
