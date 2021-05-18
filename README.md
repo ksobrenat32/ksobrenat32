@@ -16,6 +16,11 @@
 
 Make and issue on a github repositorie or in telegram @ksobrenatural
 
+#### Want to donate?
+
+Monero:
+8626vAJKNtVJW5JiT6i2pE2LnMsYQuFSPf7C4tnMbjGFT8vBirjWXZKUSjsEdF4iMtLvF8fzYL1RVeqDMHcL9JY1LpcxGri
+
 <!---
 
 Hoping to learn something new ;)
