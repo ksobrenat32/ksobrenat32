@@ -14,7 +14,8 @@
 
 #### How to reach me ...
 
-Make and issue on a github repositorie or in telegram @ksobrenatural
+Make and issue on a github repositorie.
+For a email ksobrenatural@x001.tk
 
 #### Want to donate?
 
