@@ -15,10 +15,9 @@
 #### How to reach me ...
 
 Make and issue on a github repositorie.
-For a email ksobrenatural@x001.tk
+For a email <ksobrenatural@caol.tk>
 
 #### Want to donate?
-
 
 <img src="https://www.getmonero.org/img/monero-logo.png" alt="drawing" width="100"/>
 
