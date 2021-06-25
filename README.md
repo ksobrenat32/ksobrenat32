@@ -15,7 +15,7 @@
 #### How to reach me ...
 
 Make and issue on a github repositorie.
-For a email <ksobrenatural@caol.tk>
+For a email <ksobrenatural@mail.caol.tk>
 
 #### Want to donate?
 
