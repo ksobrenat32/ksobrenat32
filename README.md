@@ -23,7 +23,7 @@ For a email <ksobrenatural@mail.caol.tk>
 
 Monero:
 8626vAJKNtVJW5JiT6i2pE2LnMsYQuFSPf7C4tnMbjGFT8vBirjWXZKUSjsEdF4iMtLvF8fzYL1RVeqDMHcL9JY1LpcxGri
-![address](github.png)
+![address](monero.png)
 <!---
 
 Hoping to learn something new ;)
