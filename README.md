@@ -30,3 +30,7 @@ Email: <ksobrenatural.7r4ty@8shield.net>
 Hoping to learn something new ;)
 
 --->
+
+## Note
+
+Moved to https://codeberg.org/ksobrenat32 but still mirror repos and have somethings here :D
