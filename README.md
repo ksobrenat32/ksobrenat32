@@ -1,26 +1,34 @@
-# Hi, I’m @ksobrenat32
+# Hi, I'm @ksobrenat32 👋
 
-I am a mexican student that enjoys learining about computers :D
+A Mexican student passionate about computers and technology. 🖥️
 
-[![ksobrenat32's github stats](https://github-readme-stats.vercel.app/api?username=ksobrenat32)](https://github.com/anuraghazra/github-readme-stats)
+🌐 **I'm more active on [GitLab](https://gitlab.com/users/ksobrenat32/projects).**
 
-## I’m interested in
+[![ksobrenat32's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksobrenat32)](https://github.com/anuraghazra/github-readme-stats)
 
-- Using, learning and encouraging the use of GNU/Linux and all Free and Open Source Software movement.
-- Learning new things.
-- Watching movies and TV series.
-- Travelling
+## Interests 💡
 
-## How to reach me
+Here are some of my interests and areas of focus:
 
-Email: <ksobrenatural.7r4ty@8shield.net>
+- Competitive programming 🏆
+- Web development 🌐
+- Infrastructure technologies 🚀
+- Promoting the use of Free and Open Source Software (FOSS) 📚
+- Reading 📖
+- Watching movies 🎬
+- Enjoying TV series and anime 📺
 
-## Donation - Monero
+## How to Reach Me 📧
 
-![address](monero.png)
+You can get in touch with me via email at: <ksobrenatural.7r4ty@8shield.net>
+
+## Donations - Monero 💰
+
+Your support is greatly appreciated! You can make donations to the following
+ Monero address:
+
+![Monero Address](monero.png)
 
 <!---
-
-Hoping to learn something new ;)
-
+Easter egg :p
 --->
