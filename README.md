@@ -2,21 +2,23 @@
 
 A Mexican student passionate about computers and technology. 🖥️
 
-🌐 **I'm more active on [GitLab](https://gitlab.com/users/ksobrenat32/projects).**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksobrenat32)
 
-[![ksobrenat32's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksobrenat32)](https://github.com/anuraghazra/github-readme-stats)
+🌐 **I'm also active on [GitLab](https://gitlab.com/users/ksobrenat32/projects)!**
+
+![Gitlab stats](https://gitlab-readme-stats-flax.vercel.app/api?username=ksobrenat32)
 
 ## Interests 💡
 
 Here are some of my interests and areas of focus:
 
+- Devops and system administration 🛠️
+- Infrastructure technologies 🚀
+- Free and Open Source Software (FOSS) 📚
 - Competitive programming 🏆
 - Web development 🌐
-- Infrastructure technologies 🚀
-- Promoting the use of Free and Open Source Software (FOSS) 📚
-- Reading 📖
 - Watching movies 🎬
-- Enjoying TV series and anime 📺
+- Food 🍔
 
 ## How to Reach Me 📧
 
