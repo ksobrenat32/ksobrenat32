@@ -4,9 +4,7 @@ A Mexican student passionate about computers and technology. 🖥️
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksobrenat32)
 
-🌐 **I'm also active on [GitLab](https://gitlab.com/users/ksobrenat32/projects)!**
-
-![Gitlab stats](https://gitlab-readme-stats-flax.vercel.app/api?username=ksobrenat32)
+> You can know me better reading my [web page](https://ks32.dev/) and [blog](https://ks32.dev/log) ;)
 
 ## Interests 💡
 
