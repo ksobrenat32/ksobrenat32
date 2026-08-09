@@ -1,75 +1,76 @@
-# Enrique Job Calderon Olalde (@ksobrenat32)
+# 👋 Hi, I'm Enrique Calderon
 
-**Computer Engineering Student | DevOps Engineer | Google Summer of Code Contributor**
+**Software Engineer · Cloud & Infrastructure · Open Source**
+
+I'm a Computer Engineering student at UNAM passionate about building reliable
+infrastructure, contributing to open source, and solving hard problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-enriquecalderonmx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/enriquecalderonmx/)
-[![Email](https://img.shields.io/badge/Email-ksobrenat32%40ks32.dev-red?style=flat&logo=gmail)](mailto:ksobrenat32@ks32.dev)
-[![Website](https://img.shields.io/badge/Website-ks32.dev-green?style=flat&logo=world)](https://ks32.dev/)
+[![Website](https://img.shields.io/badge/Website-ks32.dev-green?style=flat&logo=safari)](https://ks32.dev/)
+[![Email](https://img.shields.io/badge/Email-enriquecalderonmx-red?style=flat&logo=gmail)](mailto:enriquecalderonmx@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksobrenat32&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ksobrenat32&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksobrenat32&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+</p>
 
-## 🚀 Professional Highlights
+---
 
-- **Google Summer of Code 2025 Contributor** - Apache Software Foundation (Apache Beam)
-- **Laboratory Leader & Site Reliability Engineer** at UNAM's LIDSoL since 2022
-- **ICPC Mexico Finals Qualifier** - 2024 & 2025 consecutive years
-- **IEEEXtreme Programming Competition** - 14th place nationally (2023 & 2024)
-- **Team Leader** managing 20+ students in software development projects
+## 💼 Experience
 
-## 💼 Experience & Leadership
+### 🚕 Software Engineer Intern — **Lyft** `2026`
+Migrated an internal API to a multi-model architecture that orchestrates LLM
+    calls across several backend services, improving response time for drivers workflows.
 
-**Google Summer of Code 2025** | Apache Software Foundation  
-*Automated GCP infrastructure provisioning with Terraform, developed security tools for service account management*
+### 🌐 Google Summer of Code Contributor — **Apache Software Foundation** `2025`
+Automated GCP infrastructure provisioning with Terraform and built security
+tooling for service-account lifecycle management. Worked upstream in the Apache
+community to harden cloud-security posture.
 
-**Laboratory Leader & SRE** | UNAM LIDSoL  
-*Leading development teams, maintaining critical infrastructure including GNU/Linux mirrors and Tor relay nodes, mentoring 100+ students*
+### 🧑‍🏫 Lab Leader & SRE — **UNAM LIDSoL** `2023 – 2025`
+Led development teams, maintained critical infrastructure (GNU/Linux mirrors,
+Tor relay nodes), and mentored 100+ students. Managed on-call rotations and
+incident response for production services serving the university community.
 
-**System Administrator & Developer** | Puente Digital (Freelance)  
-*Designed CI/CD pipelines reducing deployment cycles by 30%, developed custom ERP modules*
+### 💻 System Administrator & Developer — **Puente Digital** (Freelance)
+Designed CI/CD pipelines that cut deployment cycles by 30% and built custom ERP
+modules for a growing Mexican consultancy.
 
-## 🛠️ Technical Skills
+---
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+| **Languages** | **Cloud & Infra** | **DevOps & Tooling** |
+|---------------|-------------------|----------------------|
+| Python · Go · C++ | Google Cloud (GCP) | GitHub Actions · GitLab CI |
+| Shell · SQL | Kubernetes · Docker | Terraform · Ansible |
+| | Linux (daily driver) | Git · CI/CD pipelines |
 
-**DevOps & Tools**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA326?style=flat&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+---
 
-## 🏆 Notable Projects & Achievements
+## 📌 Featured Projects
 
-### Competitive Programming
-- **ICPC Mexico Finals Qualifier** (2024, 2025) - Top regional performance
-- **IEEEXtreme 17.0 & 18.0** - 14th place nationally in programming competition
+- **[Homelab Automation](https://github.com/ksobrenat32/homelab)** — Full IaC
+  setup with Ansible for provisioning and maintaining a multi-node homelab.
+- **[Scholarships DB](https://github.com/ksobrenat32/scholarships-db)** —
+  Full-stack Django + PostgreSQL application that manages scholarship applications
+  and reviews for university departments.
+- **[Competitive Programming](https://github.com/ksobrenat32/cp)** — Solutions
+  and training material from ICPC and IEEEXtreme competitions.
 
-### Infrastructure Projects
-- **Homelab Automation** - IaC implementation with Ansible for consistent deployments
-- **Scholarships Database System** - Full-stack Django application with PostgreSQL
-- **Public Mirror Infrastructure** - Maintaining GNU/Linux distribution mirrors serving the community
+---
+
+## 🏆 Highlights
+
+- **ICPC Mexico Finals Qualifier** — 2024 & 2025 (top regional performance)
+- **IEEEXtreme 17.0 & 18.0** — 14th place nationally
+- **Apache Software Foundation** — GSoC contributor and ongoing FOSS participant
+- **Public Mirror Infrastructure** — Maintain GNU/Linux distribution mirrors
+  serving the Mexican open-source community
+
+---
 
 ## 🎓 Education
 
-**B.S. Computer Engineering** | National Autonomous University of Mexico (UNAM)  
-*2022-2027*
-
-## 🌟 Skills
-
-- **Technical Leadership**: Experience managing development teams and mentoring 100+ students
-- **Open Source Contribution**: Active contributor to Apache projects and FOSS community
-- **Problem Solving**: Proven track record in competitive programming and complex system design
-- **Infrastructure Expertise**: Hands-on experience with cloud platforms, automation, and SRE practices
-- **Continuous Learning**: Committed to staying current with emerging technologies and best practices
-
+**B.S. Computer Engineering** · National Autonomous University of Mexico (UNAM)
+`2022 – 2027`
