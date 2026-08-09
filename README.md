@@ -9,10 +9,7 @@ infrastructure, contributing to open source, and solving hard problems.
 [![Website](https://img.shields.io/badge/Website-ks32.dev-green?style=flat&logo=safari)](https://ks32.dev/)
 [![Email](https://img.shields.io/badge/Email-enriquecalderonmx-red?style=flat&logo=gmail)](mailto:enriquecalderonmx@gmail.com)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ksobrenat32&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksobrenat32&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
-</p>
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ksobrenat32&show_icons=true&theme=transparent&hide_border=true)](https://github.com/ksobrenat32)
 
 ---
 
