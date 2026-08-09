@@ -52,9 +52,6 @@ modules for a growing Mexican consultancy.
 - **[Scholarships DB](https://github.com/ksobrenat32/scholarships-db)** —
   Full-stack Django + PostgreSQL application that manages scholarship applications
   and reviews for university departments.
-- **[Competitive Programming](https://github.com/ksobrenat32/cp)** — Solutions
-  and training material from ICPC and IEEEXtreme competitions.
-
 ---
 
 ## 🏆 Highlights
